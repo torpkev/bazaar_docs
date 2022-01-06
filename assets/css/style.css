@@ -1,0 +1,28 @@
+--
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display:none !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
+
+#header {
+  display: none
+}
+
+header h1:before {
+    content: "" !important;
+    margin-left:36px !important;
+}
+.downloads {
+ display:none; 
+}
