@@ -2,7 +2,7 @@
 
 Bazaar is an easy to use shop that allows player shops, admin shops and clan shops to be set up on your server.
 
-[How To Use](https://torpkev.github.io/bazaar_docs/howtouse.md) | [Commands](https://torpkev.github.io/bazaar_docs/commands.md)  | [Permissions](https://torpkev.github.io/bazaar_docs/permissions.md) 
+[How To Use](https://torpkev.github.io/bazaar_docs/howtouse) | [Commands](https://torpkev.github.io/bazaar_docs/commands)  | [Permissions](https://torpkev.github.io/bazaar_docs/permissions) 
 
 ## FEATURES
 - Easy setup
