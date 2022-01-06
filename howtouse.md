@@ -67,16 +67,22 @@ When these flags are active in the field, only people allowed to the field will 
 Bazaar adds 4 new flags to WorldGuard that can be used to limit Bazaar use in WorldGuard regions
 
 create-shop
+
 This flag when set will either allow or deny creating Bazaar shops in the region
 
 use-admin-shop
+
 This flag when set will either allow or deny using Admin/server shops in the region
 
 use-shop
+
 This flag when set will either allow or deny using player shops in the region
 
 use-clan-shop
+
 This flag when set will either allow or deny using clan shops in the region
+
+Note: You can change the name of these flags in the config file
 
 If you wanted to create a specific shop for a player, you would apply create-shop ALLOW to members and add them as a member of the region.  You would leave use-shop as ALLOW for everyone.
 
