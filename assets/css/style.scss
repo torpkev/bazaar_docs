@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display:none !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
+.page-header {
+    background-image: none !important;
+    background-color: black !important;
+    padding: 2px !important;
+}
+
+
+.downloads {
+ display:none; 
+}
+h2 {
+    color: inherit !important;
+}
+header h1:before {
+    content: "  " !important;
+  margin-left:36px !important;
+}
