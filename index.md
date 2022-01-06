@@ -2,6 +2,8 @@
 
 Bazaar is an easy to use shop that allows player shops, admin shops and clan shops to be set up on your server.
 
+[How To Use](https://torpkev.github.io/bazaar_docs/howtouse.md) | [Commands](https://torpkev.github.io/bazaar_docs/commands.md)  | [Permissions](https://torpkev.github.io/bazaar_docs/permissions.md) 
+
 ## FEATURES
 - Easy setup
 - Admin/Server stores that don't require inventory
@@ -14,3 +16,13 @@ Bazaar is an easy to use shop that allows player shops, admin shops and clan sho
 - Configurable cooldown period between purchases
 - Configurable server sales tax
 - Shop transaction locking to prevent inventory mismanagement
+
+REQUIREMENTS
+- HolographicDisplays
+- Vault
+
+
+OPTIONAL DEPENDENCIES
+- ProtocolLib
+- Domain
+- WorldGuard
