@@ -6,6 +6,7 @@ Bazaar is an easy to use shop that allows player shops, admin shops and clan sho
 
 ## FEATURES
 - Easy setup
+- MySQL Support
 - Admin/Server stores that don't require inventory
 - Clan shop integration with Myriad Clans
 - Create shops using chests or barrels
@@ -18,11 +19,13 @@ Bazaar is an easy to use shop that allows player shops, admin shops and clan sho
 - Shop transaction locking to prevent inventory mismanagement
 
 REQUIREMENTS
-- HolographicDisplays
+- Decent Holograms
 - Vault
 
 
 OPTIONAL DEPENDENCIES
+- Holographic Displays
 - ProtocolLib
 - Domain
+- Myriad Clans
 - WorldGuard
